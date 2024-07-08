@@ -1,0 +1,38 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: #012301;
+    color: #456 */
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+h1
+{
+    font-size: 45px;
+
+}
+input
+{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border-style: none;
+
+
+}
+.btn:hover
+{
+    background-color: yellow;
+    cursor: pointer;
+}
